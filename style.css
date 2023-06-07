@@ -3,11 +3,17 @@ body {
  background-color: #e5e5e5;
 }
 
+.navbar-custom {
+  background-color: #db4c3f;
+}
+
+
 .parent{
  display: flex;
  align-items: center;
  justify-content: center;
  min-height: 70vh;
+ margin-top: 20px;
 }
 
 
