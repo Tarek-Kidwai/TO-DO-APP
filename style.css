@@ -43,7 +43,9 @@ body {
   align-items: center;
   
 }
-
+h4{
+  font-weight: bold !important;
+}
 .fa-calendar-check{
   
   padding: 3px;
@@ -63,7 +65,7 @@ body {
 }
 
 .fa-plus {
-  background-color:#db4c3f;
+  background-color:#ffab3d;
   padding: 3px;
   border-radius: 3px;
 }
